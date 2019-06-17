@@ -1,0 +1,119 @@
+
+
+body {color: #FFE6D9; font-family: 'Poppins', sans-serif;}
+
+.menucentrado{text-align: center}
+
+header{background-color: background-color: #fd3921;
+background-image: linear-gradient(19deg, #fd3921 0%, #b69a46 57%); padding-bottom: 9%
+}
+
+a{color: rgba(255,255,255,1.00)}
+
+a:hover{font-weight: 700; color: #FFE6D9; text-decoration: none}
+
+h1{line-height: 45px; font-size: 50px; font-weight: 400}
+
+header h1{margin: 30px 0px}
+
+.btn-port{background-color: #fd3921}
+
+
+.imgmargin{margin: 50px 0px}
+
+@media (max-width: 435px) 
+{
+	
+	body{text-align: center}
+	
+	p{font-size: 14px; margin: 20px 50px}
+	
+	h1{font-size: 35px; line-height: 25px; text-align: center; padding: 20px 0px 5px 0px; margin: 0px 2px}
+	
+	header .btnerick{margin-bottom: 80px}
+	
+	.logostelefono {margin: 50px}
+	
+	.margenlogos{margin: 0px}
+	
+	.imageninicio{margin: 40px 0px}
+	#mistrabajos h4 {font-size: 5px; margin-right: 20px; padding-bottom: 10px}
+	
+	#mistrabajos .iconos{font-size: 50px; margin-left: 30px}
+	
+	.center{margin-left: 0px}
+	
+  
+	
+}
+
+.center{margin-left: 60px}
+
+
+
+
+.capa{position: relative}
+.capaabajo{position: absolute; z-index: 10;opacity: 0.04}
+.capacolor
+.capaarriba{position: absolute; z-index: 20}
+
+#misservicios .capaabajo{background-color: rgba(0,0,0,1.00); width: 100%; height: 100%; opacity: 0.6; z-index: 1}
+
+#misservicios .capaarriba{position: absolute; z-index: 5}
+
+
+#sobremi{background-color: #BA8376; padding: 0px 0%}
+
+#sobremi h2{margin-top: 40px}
+#sobremi p{margin-bottom: 40px}
+p{font-weight: 300}
+
+.btnerick{background-color: transparent; border: rgba(255,255,255,1.00) 1px solid; padding: 0.5% 3%; border-radius: 100px  } 
+#misservicios{background-image: url("../img/Sin título-3-02.png"); background-repeat: no-repeat; background-position: center; background-size: cover; background-attachment: fixed}
+
+
+h4{font-size: 15px; text-transform: uppercase; letter-spacing: 4px}
+
+.colorservicios{width: 180px; height: 50px; background-color: #000000}
+
+#misservicios{padding: 60px 0px}
+#mistrabajos{background-color: #FD3921; padding: 50px 0px}
+
+.iconos{margin-bottom: 28px; color: #FFE6D9}
+
+.alineado{align-items: center; justify-content: center; display: flex}
+
+.margenlogos{margin: 40px 0px 20px 0px}
+
+#misservicios p{margin: 20px 20px; font-size: 14px}
+.textomenu{letter-spacing: 5px}
+
+.playvideo{position: absolute; top: 0; padding: 55px 120px; color: rgba(255,255,255,1.00); opacity: .7}
+
+.playvideo:hover{opacity: 1; transition: 0.5s }
+
+.capavideo{position: relative; top: 0}
+
+hr{color: rgba(255,255,255,1.00); background-color: rgba(255,255,255,1.00); margin: 50px 0px 20px 0px}
+
+
+#contacto{background-color: #fff7f3; color: #FD3921; text-align: center; padding: 50px 0px }
+#contacto .iconos{color: #FF3921; margin: 10px 25px 80px 25px}
+
+#mistrabajos h4 {font-size: 16px; letter-spacing: 10px; margin-left: 80px; padding-top: 15px}
+#mistrabajos p{margin-bottom: 70px}
+
+.navfix{position: fixed; z-index: 9000}
+.headermargin{padding: 180px 0px}
+
+
+#map-view{
+	width: 100%;
+	height: 300px; 
+margin: 70px 0px;	
+}
+
+footer{background-image: linear-gradient(19deg, #fd3921 0%, #b69a46 57%);}
+
+footer p{padding: 20px 0px; font-size: 15px}
+
